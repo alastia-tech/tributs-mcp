@@ -1,0 +1,12 @@
+{
+  "name": "tributs",
+  "description": "Read your Andorran books, bank and tax filings from Tributs. Read-only.",
+  "version": "1.0.0",
+  "author": { "name": "Alastia", "email": "hola@tributs.ad" },
+  "homepage": "https://tributs.ad/en/ai",
+  "repository": "https://github.com/alastia-tech/tributs-mcp",
+  "license": "MIT",
+  "keywords": ["accounting", "tax", "andorra", "invoices", "bank", "igi", "payroll", "erp"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
