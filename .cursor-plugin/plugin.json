@@ -7,6 +7,6 @@
   "repository": "https://github.com/alastia-tech/tributs-mcp",
   "license": "MIT",
   "keywords": ["accounting", "tax", "andorra", "invoices", "bank", "igi", "payroll", "erp"],
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo-plate.svg",
   "mcpServers": "mcp.json"
 }
